@@ -1,7 +1,5 @@
 # super-disco
 
-![Banner](https://i.imgur.com/JQ7Z8lD.png)
-
 A Telegram bot that remotely executes reconnaissance scans via SSH and delivers real-time results and reports.
 
 ## 🔥 Features
